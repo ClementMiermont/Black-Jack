@@ -1,0 +1,7 @@
+D:\bibliotheques projets\code\22 septembre Jeu de BlackJack\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\bibliotheques projets\code\22 septembre Jeu de BlackJack\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\bibliotheques projets\code\22 septembre Jeu de BlackJack\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\bibliotheques projets\code\22 septembre Jeu de BlackJack\ConsoleApp1\obj\Debug\Jeu de Black Jack App.csproj.AssemblyReference.cache
+D:\bibliotheques projets\code\22 septembre Jeu de BlackJack\ConsoleApp1\obj\Debug\Jeu de Black Jack App.csproj.CoreCompileInputs.cache
+D:\bibliotheques projets\code\22 septembre Jeu de BlackJack\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\bibliotheques projets\code\22 septembre Jeu de BlackJack\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
